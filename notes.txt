@@ -1,0 +1,79 @@
+What is Devops?
+set of tools which are used for continuous development and integration
+
+CI- 
+CD - Continous Delivery/ Deployment
+
+Requirement Gathering - Business Analyst
+Analysis - Functional Consultant, Technical Consultant,
+Senior Project Managers,Software Architect
+Design - Project Managers/Technical Consultants
+Code - Developers
+Test - Testers
+Deployment - Installing the software/exe on the client's machine
+Maintenance- 
+
+Develpment Team and operations Team
+
+
+Devops
+Continuous Integration
+Continuous Delivery
+Continuous Deployment 
+Various Environments used in Projects
+Various roles of Devops engineer
+Various tools used in Devops
+
+
+Agile Methedology
+1. User stories - requirements
+2. Sprint - duration 
+3. Sprint Review Meetings- Scrum Master(PM)--> Dev and Testers - (15 mins)
+4. Backlog (sprint) -
+5. Product Backlog - All user stories on the day 1
+6. Product Owner - client
+
+MS Project 
+Excel 
+Azure Boards - 
+Scrum/Kanban - 
+
+> git init
+> git status
+> git add .
+> git commit -m "message"
+> git remote add orgin <url>
+> git push origin master
+
+
+git remote set-url origin https://github.com/MyRepo/project.git
+git config --global user.email "you@example.com"
+git config --global user.name "your name"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
