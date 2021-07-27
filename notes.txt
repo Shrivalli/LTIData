@@ -13,6 +13,7 @@ Test - Testers
 Deployment - Installing the software/exe on the client's machine
 Maintenance- 
 
+DevOps:
 Develpment Team and operations Team
 
 Newly added data
